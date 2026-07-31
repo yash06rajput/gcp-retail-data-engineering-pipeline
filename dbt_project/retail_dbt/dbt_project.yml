@@ -20,3 +20,11 @@ clean-targets:
 
 models:
   retail_dbt:
+
+    staging:
+      +schema: retail_staging
+      +materialized: view
+
+    marts:
+      +schema: retail_marts
+      +materialized: table

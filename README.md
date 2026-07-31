@@ -394,22 +394,17 @@ Documentation includes:
 ## Yash Rajput
 
 **B.Tech Information Technology**
+Maharaja Agrasen Institute of Technology (MAIT), Delhi
 
 Aspiring Data Engineer | Google Cloud | Big Data | Data Engineering
 
 ### Connect with Me
 
-**GitHub**
+GitHub
+https://github.com/yash06rajput
 
-```text
-https://github.com/<your-github-username>
-```
-
-**LinkedIn**
-
-```text
-https://linkedin.com/in/<your-linkedin-profile>
-```
+LinkedIn
+https://www.linkedin.com/in/yashrajput06/
 
 ---
 
